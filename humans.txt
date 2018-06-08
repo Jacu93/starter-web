@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ziomek poziomek     ziomek@poziomek.com   @siuras
 
 # THANKS
 
