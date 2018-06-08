@@ -8,6 +8,10 @@ prosty wstep testowy
 
 ## Purpose
 
+twoj opor jest bezcelowy
+
 ## Deployment
+
+dupa nigdy tego nie wypuszcze
 
 ## How to contribute
