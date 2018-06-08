@@ -16,6 +16,8 @@ dupa nigdy tego nie wypuszcze
 
 ## How to contribute
 
+bierej i nie marduz siurku
+
 ### Copyright
 
 copyright jacu 2014
