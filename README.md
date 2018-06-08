@@ -15,3 +15,7 @@ twoj opor jest bezcelowy
 dupa nigdy tego nie wypuszcze
 
 ## How to contribute
+
+### Copyright
+
+copyright jacu 2014
