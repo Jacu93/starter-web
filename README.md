@@ -4,6 +4,8 @@ this is simple project
 
 ## Introduction
 
+prosty wstep testowy
+
 ## Purpose
 
 ## Deployment
