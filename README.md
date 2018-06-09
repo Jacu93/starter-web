@@ -1,6 +1,6 @@
 # Starter Web Project
 
-this is simple project, projekcik to nauki gita, jeszcze wiecej zmian na FB
+this is simple project, projekcik to nauki gita, jeszcze wiecej zmian na FB, dodanie nowego teksru przy stashu
 
 ## Introduction
 
