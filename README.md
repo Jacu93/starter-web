@@ -20,4 +20,4 @@ bierej i nie marduz siurku
 
 ### Copyright
 
-copyright jacu 2014
+copyright jacu 2014, w pilkie productions
