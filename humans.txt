@@ -8,6 +8,7 @@
 # THANKS
 
     dziena siurki
+	zostawcie lapke w gore
 
 # TECHNOLOGY COLOPHON
 
